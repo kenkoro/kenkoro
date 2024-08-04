@@ -2,6 +2,6 @@
 
 - [ ] Gradually build the decent [taurus application] project - up until Jul of 2026
 - [ ] Took an IELTS exam - up until Jul of 2026
-- [ ] Get a job in Japan - up until Jul of 2026
+- [ ] Get a job in Japan - up until Jul of 2029
 
 [taurus application]: https://github.com/kenkoro/taurus
