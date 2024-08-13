@@ -1,6 +1,6 @@
-### Goals for the next like 2 to 3 years
+### the experience card
 
-- [ ] Gradually build the decent [taurus application] project - 07/01/2026
-- [ ] Took an IELTS exam - 02/01/2027
+#### projects in work (1)
+1. [taurus](https://github.com/kenkoro/taurus) - a tool to manage the clothing workshop
 
-[taurus application]: https://github.com/kenkoro/taurus
+#### completed projects - none ✖️
