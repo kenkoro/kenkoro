@@ -1,6 +1,7 @@
 ### the experience card
 
-#### projects in work (1)
+#### participated projects
 1. [taurus](https://github.com/kenkoro/taurus) - a tool to manage the clothing workshop
 
-#### completed projects - none ✖️
+#### goals
+- [ ] move to Japan
