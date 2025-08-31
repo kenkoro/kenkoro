@@ -1,9 +1,13 @@
-### the experience card
+## kenkoro
 
-#### participated projects
-1. [taurus][taurus-url] - a tool to manage the clothing workshop
-2. [backend side of the taurus app][taurus-backend-url] - uses Ktor Framework, Docker, and other stuff
-   - design, app architecture, server administration are on me as well
+### A bit about me
 
-[taurus-url]: https://github.com/kenkoro/taurus
-[taurus-backend-url]: https://github.com/kenkoro/taurus-backend
+Hey! I'm kenkoro, welcome to my GitHub page. I love FOSS and am always striving to improve my coding skills.
+I'm planning to create my own content online to share my experience with others soon, like cracking challenging
+topics, seeing what's under the hood of a specific technology or even maybe contributing to open source live.
+
+### What I'm hacking on
+
+For the most part, I prefer to stick around with Kotlin and low-level stuff, e.g. [Kotlin/Native][kotlin-native].
+
+[kotlin-native]: https://github.com/JetBrains/kotlin/tree/master/native
