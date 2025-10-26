@@ -8,9 +8,9 @@ topics, seeing what's under the hood of a specific technology or even maybe cont
 
 ### What I'm hacking on
 
-For the most part, I prefer to stick around with Kotlin and low-level stuff, e.g. [Kotlin/Native][kotlin-native].
+For the most part, I prefer to stick around with Kotlin, e.g. [Kotlin/Native][kotlin-native].
 
-For a detailed overview of my contributions, please refer to the [moko-units][moko-units].
+For a detailed overview of my contributions, please refer to the [moko libraries][icerockdev].
 
 [kotlin-native]: https://github.com/JetBrains/kotlin/tree/master/native
-[moko-units]: https://github.com/icerockdev/moko-units
+[icerockdev]: https://github.com/icerockdev
