@@ -10,7 +10,10 @@ topics, seeing what's under the hood of a specific technology or even maybe cont
 
 For the most part, I prefer to stick around with Kotlin, e.g. [Kotlin/Native][kotlin-native].
 
-For a detailed overview of my contributions, please refer to the [moko libraries][icerockdev].
+For a detailed overview of my contributions, please refer to the following resources:
+- [moko libraries][icerockdev]
+- [aniyomi][aniyomi]
 
 [kotlin-native]: https://github.com/JetBrains/kotlin/tree/master/native
 [icerockdev]: https://github.com/icerockdev
+[aniyomi]: https://github.com/aniyomiorg
