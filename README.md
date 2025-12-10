@@ -13,7 +13,9 @@ For the most part, I prefer to stick around with Kotlin, e.g. [Kotlin/Native][ko
 For a detailed overview of my contributions, please refer to the following resources:
 - [moko libraries][icerockdev]
 - [aniyomi][aniyomi]
+- [suppa][suppa]
 
 [kotlin-native]: https://github.com/JetBrains/kotlin/tree/master/native
 [icerockdev]: https://github.com/icerockdev
 [aniyomi]: https://github.com/aniyomiorg
+[suppa]: https://github.com/kenkoro/suppa
