@@ -8,14 +8,12 @@ topics, seeing what's under the hood of a specific technology or even maybe cont
 
 ### What I'm hacking on
 
-For the most part, I prefer to stick around with Kotlin, e.g. [Kotlin/Native][kotlin-native].
+For the most part, I prefer to stick around with Kotlin, e.g. the [Kotlin Standard Library][kotlin-stdlib].
 
 For a detailed overview of my contributions, please refer to the following resources:
-- [onewic][onewic]
+- [rei-san][rei-san]
 - [suppa][suppa]
-- [aniyomi][aniyomi]
 
-[kotlin-native]: https://github.com/JetBrains/kotlin/tree/master/native
-[onewic]: https://github.com/kenkoro/onewic
-[aniyomi]: https://github.com/aniyomiorg
+[kotlin-stdlib]: https://github.com/JetBrains/kotlin/tree/master/libraries/stdlib
+[rei-san]: https://github.com/kenkoro/rei-san
 [suppa]: https://github.com/kenkoro/suppa
