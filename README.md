@@ -11,9 +11,9 @@ topics, seeing what's under the hood of a specific technology or even maybe cont
 For the most part, I prefer to stick around with Kotlin, e.g. the [Kotlin Standard Library][kotlin-stdlib].
 
 For a detailed overview of my contributions, please refer to the following resources:
-- [rei-san][rei-san]
+- [chlorobit][chlorobit]
 - [suppa][suppa]
 
 [kotlin-stdlib]: https://github.com/JetBrains/kotlin/tree/master/libraries/stdlib
-[rei-san]: https://github.com/kenkoro/rei-san
+[chlorobit]: https://github.com/kenkoro/chlorobit
 [suppa]: https://github.com/kenkoro/suppa
