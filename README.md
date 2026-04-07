@@ -11,8 +11,8 @@ topics, seeing what's under the hood of a specific technology or even maybe cont
 For the most part, I prefer to stick around with Kotlin, e.g. the [Kotlin Standard Library][kotlin-stdlib].
 
 For a detailed overview of my contributions, please refer to the following resources:
-- [chlorobit][chlorobit]
-- [suppa][suppa]
+- [chlorobit][chlorobit] - chlorophyllous themed widgets
+- [suppa][suppa] - dagger boilerplate
 
 [kotlin-stdlib]: https://github.com/JetBrains/kotlin/tree/master/libraries/stdlib
 [chlorobit]: https://github.com/kenkoro/chlorobit
